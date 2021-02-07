@@ -16,4 +16,4 @@ setInterval(function(){
         letter.style.color = randomRGB();
 
     }
-}, 1000)
+}, 2000)
